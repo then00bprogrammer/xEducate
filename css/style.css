@@ -175,6 +175,7 @@ html{
     .paras {
       width: 100%;
     }
+
   }
   
   @media screen and (min-width: 800px) {
@@ -249,6 +250,7 @@ html{
     border: 2px solid rgba(136,136,136,0.9);
     background-color: rgba(136,136,136,0.5);
     outline: none;
+    height: 25%;
   }
 
   .text-footer{
