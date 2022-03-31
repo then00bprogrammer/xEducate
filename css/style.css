@@ -217,6 +217,7 @@ html{
       z-index: inherit;
       background-color: rgba(136,136,136,0.5);
       color: white;
+      outline: none;
   }
   .form ::placeholder{
     color: white;
@@ -247,6 +248,7 @@ html{
     background: none;  
     border: 2px solid rgba(136,136,136,0.9);
     background-color: rgba(136,136,136,0.5);
+    outline: none;
   }
 
   .text-footer{
