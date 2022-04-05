@@ -233,6 +233,11 @@ html{
     z-index: -1;
     color: white;
   }
+  @media screen and (max-width: 800px){
+    .contact{
+      max-width: 90vw;
+    }
+  }
   .contact .form button{
     display: block;
     margin-left: auto;
